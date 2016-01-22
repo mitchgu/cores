@@ -124,7 +124,7 @@ let me know?  http://forum.pjrc.com/forums/4-Suggestions-amp-Bug-Reports
   #define PRODUCT_NAME_LEN	10
   #define EP0_SIZE		64
   #define NUM_ENDPOINTS		4
-  #define NUM_USB_BUFFERS	12
+  #define NUM_USB_BUFFERS	128
   #define NUM_INTERFACE		2
   #define CDC_STATUS_INTERFACE	0
   #define CDC_DATA_INTERFACE	1
